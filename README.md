@@ -6,6 +6,7 @@
 Prerequisites: Ensure you have Python `3.11.7` installed. 
 
 1. Install Required Libraries
+
 Run the following command to install all necessary libraries:
 
 ```bash
