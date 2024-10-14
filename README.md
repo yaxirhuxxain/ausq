@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ```
 
 2. Extract the Dataset
+3. 
 After extracting the `dataset.tar`, ensure the directory structure is as follows:
 
 ```
@@ -23,6 +24,7 @@ dataset/
 ```
 
 3. Run the Benchmark
+4. 
 To benchmark the ML models, execute the following command:
 
 ```bash
