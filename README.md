@@ -32,9 +32,11 @@ To benchmark the ML models, execute the following command:
 python run_ml_models.py -i dataset/metric -e results/metric -d Porru_Dataset
 ```
 
+Adjust the parameters as needed. 
+
 If you encounter any problems, feel free to *open an issue*.
 
-The experiments were conducted on Debian 11 running on WSL2 with Cuda support.
+NOTE: The experiments were conducted on Debian 11 running on WSL2 with Cuda support.
 
 
 ### Citation
