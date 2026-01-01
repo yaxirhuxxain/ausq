@@ -1,0 +1,5 @@
+Model,Precision,Recall,F1 Score
+LogisticRegression,0.636903202,0.79714577,0.708071625
+RandomForestClassifier,0.70466783,0.79714577,0.709977611
+GradientBoostingClassifier,0.705975649,0.793068298,0.71500086
+MLPClassifier,0.699544989,0.727828746,0.712003866
